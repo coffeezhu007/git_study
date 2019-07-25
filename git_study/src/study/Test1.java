@@ -1,4 +1,4 @@
-package git_study;
+package study;
 
 public class Test1 {
 
